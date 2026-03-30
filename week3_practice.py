@@ -2,3 +2,4 @@
 print("week3 start")
 print("第3周练习")
 print("git log 练习")
+print("测试 git diff")
